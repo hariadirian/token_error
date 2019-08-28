@@ -1,0 +1,16 @@
+
+input.datepicker.product-date:hover{
+    text-decoration:underline;
+}
+input.datepicker.product-date{
+    border:none;
+    cursor:pointer;
+    color:blue;
+    width:unset;
+}
+.disabled-content{
+    pointer-events: none;
+    z-index:2;
+    opacity:0.4;
+    filter: alpha(opacity = 50);
+}

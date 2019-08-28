@@ -1,0 +1,94 @@
+.form-group.form-float{
+    margin-bottom:1px;
+}
+.bright-icons{
+    color:white !important; 
+}
+.form-indigo{
+    background-color:#177cd5;
+    border-top-left-radius: 3px !important;
+    border-top-right-radius: 3px !important;
+    padding-left: 7px !important;
+    color: white;
+    width:inherit !important;
+}
+.form-label{
+    z-index: 2;
+    padding-left: 7px;
+    color: #80c4ff !important;
+}
+.form-bright-label{
+    color:#1e5f98 !important;
+}
+.input-group{
+    margin-bottom:30px;
+}
+.dropdown-toggle{
+    margin-left:0px !important;
+}
+.input-group-indigo > div.bootstrap-select, .input-group-indigo > div.bootstrap-select > .dropdown-toggle{
+    background-color:#177cd5 !important;
+    color:#80c4ff;
+    border-top-left-radius: 3px !important;
+    border-top-right-radius: 3px !important;
+}
+.input-group-indigo > div.bootstrap-select > .dropdown-toggle{
+    padding-top: 10px;
+    padding-bottom: 4px !important;
+}
+.alert > ul{
+    padding-top: 10px;
+}
+.alert{
+    color:#e0e0e0 !important;
+}
+.closeon {
+	position: absolute;
+	top: 0px;
+	right: 1px;
+	cursor: pointer;
+	width: 20px;
+	text-align: center;
+    background-color: yellow;
+    color:black;
+    z-index:4;
+}
+.dropzone {
+    background-color:#8599e0 !important
+}
+.bg-bright{
+    background-color:#ECF3FF !important;
+}
+.form-bright{
+    /*background-color:#FAFFFF !important;*/
+    border-top-left-radius: 3px !important;
+    border-top-right-radius: 3px !important;
+    padding-left: 7px !important;
+    color: #7a9ed4;
+    width:inherit !important;
+}
+.swal-wide{
+    min-width:470px !important;
+    max-width:100% !important;
+    width:unset !important;
+}
+.border-right{
+    border-right:1px solid #eee;
+}
+.help-block{
+    color:red !important;
+}
+.td-condensed{
+    background-color: inherit;
+    text-align: left;
+    padding-bottom: 0px !important;
+    padding-top: 3px !important;
+    border:0 !important;
+}
+.td-wrap{
+    padding-top:8px !important;
+    padding-bottom:8px !important;
+}
+.custom-detail-row{
+    cursor: initial;
+}

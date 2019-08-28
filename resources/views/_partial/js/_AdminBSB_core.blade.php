@@ -1,0 +1,9 @@
+        <!-- Core JS -->
+        <script src="{{ asset('adminbsb/plugins/jquery/jquery.min.js') }}"></script>
+        <script src="{{ asset('adminbsb/plugins/bootstrap/js/bootstrap.js') }}"></script>
+        <script src="{{ asset('adminbsb/plugins/node-waves/waves.js') }}"></script>
+        <script src="{{ asset('adminbsb/plugins/jquery-slimscroll/jquery.slimscroll.js') }}"></script>
+        <script src="{{ asset('adminbsb/js/demo.js') }}"></script>
+        <script src="{{ asset('adminbsb/js/admin.js') }}"></script>
+        <script src="{{ asset('adminbsb/js/pages/ui/tooltips-popovers.js') }}"></script>
+        <script src="{{ asset('frontend/js/jquery-ui.min.js') }}"></script>

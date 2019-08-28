@@ -1,0 +1,54 @@
+.cursorTab {
+    cursor: pointer;
+    padding: 8px !important;
+}
+
+dt{
+    width:130px !important;
+    padding-bottom:10px !important;padding-top:10px !important;
+}
+
+dd{
+    margin-left:140px !important;padding-top:10px !important;
+}
+
+.cursorTab:hover {
+    background-color: #f89294;
+}
+
+table[data-original-tb="queue-kacamata"] > tbody > tr[class="odd"]{
+    background-color: #b3ffb1;
+}
+
+table[data-original-tb="queue-kacamata"] > tbody > tr[class="even"]{
+    background-color: #cbffca;
+}
+
+table[data-original-tb="queue-visus"] > tbody > tr[class="odd"]{
+    background-color: #d5e5fb;
+}
+
+table[data-original-tb="queue-visus"] > tbody > tr[class="even"]{
+    background-color: #e6effc;
+}
+
+
+.js-exportable-ajax tbody tr[class="odd"]:hover{
+    background-color: #e7f1fe;   
+}    
+
+.js-exportable-ajax tbody tr[class="even"]:hover{
+    background-color: #f2f8ff;   
+}    
+
+tr[tipe-original="kacamata"]{
+    background-color: #b3ffb1;
+}
+
+tr[tipe-original="visus"]{
+    background-color: #d5e5fb;
+}
+
+.selected-booking{
+    background-color: #ff689d;
+}

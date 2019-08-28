@@ -1,0 +1,29 @@
+
+.dataTables_length{
+    float:right;
+}
+.dataTables_filter{
+    float:right;
+}
+.first-td-datatable{
+    background-color:blue;
+    color:white;
+}
+.default-td-datatable{
+    vertical-align:middle !important;
+}
+.default-th-datatable{
+    text-align:center;
+}
+.dt-buttons{
+   padding:5px 20px 20px 0px;
+}
+table > tbody > tr{
+    text-align:center;;
+}
+table > tbody > tr[class="odd"]{
+    background-color: #d5e5fb;
+}
+table > tbody > tr[class="even"]{
+    background-color: #e6effc;
+}
